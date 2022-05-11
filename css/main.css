@@ -2355,7 +2355,7 @@ shortcodes page css
     
 }
 
-.mision img{
+.especialidad img{
     width: 600px;
     height: 300px;
     object-fit: cover;
@@ -2363,31 +2363,25 @@ shortcodes page css
     opacity: 0.8;
    
 }
-.vision img{
-    width: 600px;
-    height: 300px;
-    object-fit: cover;
-    margin-left: 10px;
-   
-}
-.mision h2{
+
+.misionh2{
     color: #fff;
     position: absolute;
     transform:translate(50%,-700%);
 }
-.vision h2{
+.visionh2{
     color: #fff;
     position: absolute;
     transform:translate(50%,-700%);  
 }
-.mision p{
+.misionp{
     width: 500px;
     color: #fff;
     position: absolute;
     transform:translate(10%,-200%);
     font-size: 20px;
 }
-.vision p{
+.visionp{
     width: 500px;
     color: #fff;
     position: absolute;
@@ -2402,9 +2396,10 @@ shortcodes page css
     border-radius: 50%;
     bottom: 20px;
     right: 25px;
-    padding: 25px;
+    padding: 15px;
     transition: ease 0.3s;
     animation: efecto 1.2s infinite;
+    width: 70px;
 }
 
 .container-boton:hover{

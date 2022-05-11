@@ -190,7 +190,7 @@
 }
 
 /* xs */
-@media (max-width: 767px) {
+@media (max-width: 700px) {
 
   .container-mision{
     display: inline-block;
