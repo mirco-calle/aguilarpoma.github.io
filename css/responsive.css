@@ -198,13 +198,20 @@
   }
   .mision img{
     margin-left: 20px;
+    margin-top: 0px;
   }
   .vision img{
     margin-top:5px;
   }
   .especialidad {
-       margin-top:170px;
+       margin: 20px auto;
+       margin-bottom: 20px;
   }
+  .especialidad2 {
+    margin: 20px auto;
+    margin-top: 200px;
+}
+  
 
     .navbar-nav>li{
         display: block;
