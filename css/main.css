@@ -2388,8 +2388,8 @@ especialidad{
     margin:5 auto;
     width: 500px;
     color: #fff;
-    position: relative;
-    transform:translate(10%,-200%);
+    position: absolute;
+    transform:translate(1%,-200%);
     font-size: 20px;
     
 }
@@ -2399,7 +2399,7 @@ especialidad{
     width: 500px;
     color: #fff;
     position: absolute;
-    transform:translate(10%,-150%);  
+    transform:translate(1%,-150%);  
     font-size: 20px;
     margin-bottom:50px;
 }
@@ -2411,7 +2411,7 @@ especialidad{
     z-index: 999;
     border-radius: 50%;
     bottom: 30px;
-    right: 25px;
+    right: 50px;
     padding: 15px;
     transition: ease 0.3s;
     animation: efecto 1.2s infinite;
