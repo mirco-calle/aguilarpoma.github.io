@@ -2349,9 +2349,10 @@ shortcodes page css
 .container-mision{
     display:flex;
     position: relative;
-    justify-content: center;
+    justify-content:space-between;
     color: #fff;
     height: 400px;
+    margin-right: 10px;
     
 }
 
@@ -2359,50 +2360,16 @@ shortcodes page css
     width: 600px;
     height: 300px;
     object-fit: cover;
-    margin-right: 10px;
+    margin: 15px ;
     opacity: 0.8;
    
 }
-especialidad{
-    margin:10px auto;
+.especialidad{
+    margin-right:15px auto;
     
 }
-.misionh2{
-    text-align: center;
-    margin:5 auto;
-    color: #fff;
-    position: absolute;
-    transform:translate(30%,-700%);
-    margin-bottom:10px;
-}
-.visionh2{
-    text-align: center;
-    margin:5 auto;
-    color: #fff;
-    position: absolute;
-    transform:translate(30%,-700%); 
-    
-}
-.misionp{
-    text-align: center;
-    margin:5 auto;
-    width: 500px;
-    color: #fff;
-    position: absolute;
-    transform:translate(1%,-200%);
-    font-size: 20px;
-    
-}
-.visionp{
-    text-align: center;
-    margin:5 auto;
-    width: 500px;
-    color: #fff;
-    position: absolute;
-    transform:translate(1%,-150%);  
-    font-size: 20px;
-    margin-bottom:50px;
-}
+
+
 
 .container-boton-whatsap{
     background-color: #2e6329;
