@@ -2368,27 +2368,34 @@ especialidad{
     
 }
 .misionh2{
+    text-align: center;
+    margin:5 auto;
     color: #fff;
     position: absolute;
-    transform:translate(50%,-700%);
+    transform:translate(30%,-700%);
     margin-bottom:10px;
 }
 .visionh2{
+    text-align: center;
+    margin:5 auto;
     color: #fff;
     position: absolute;
-    transform:translate(50%,-700%); 
+    transform:translate(30%,-700%); 
     
 }
 .misionp{
-    
+    text-align: center;
+    margin:5 auto;
     width: 500px;
     color: #fff;
-    position: absolute;
+    position: relative;
     transform:translate(10%,-200%);
     font-size: 20px;
     
 }
 .visionp{
+    text-align: center;
+    margin:5 auto;
     width: 500px;
     color: #fff;
     position: absolute;
